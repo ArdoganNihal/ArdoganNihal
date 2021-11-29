@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, I'm Nihal 👋
 
 <!--
 **ArdoganNihal/ArdoganNihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I spend most of my time learning new things, coding data science or attending trainings.
 
 Here are some ideas to get you started:
 
