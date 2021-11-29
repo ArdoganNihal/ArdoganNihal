@@ -3,7 +3,7 @@ I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I
 
 📫 Reach me out !
 
-![Twitter Badge]((https://img.shields.io/badge/-@nihalino/url?color=white&label=%40nihalino&logo=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com)
+![Twitter Badge](https://img.shields.io/twitter/follow/nihalino?label=%40nihalino&style=social)
 
 <!--
 **ArdoganNihal/ArdoganNihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
