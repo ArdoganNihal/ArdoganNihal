@@ -3,4 +3,4 @@ I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I
 
 : mailbox : Reach me out!
 
-![Twitter URL](https://img.shields.io/twitter/url?color=white&label=%40nihalino&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fnihalino)
+![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=%40nihalino&logo=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fnihalino)
