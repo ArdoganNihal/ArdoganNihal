@@ -5,4 +5,4 @@ I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I
 
 ![Twitter Badge](https://img.shields.io/badge/-@nihalino/url?color=white&label=%40nihalino&logo=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com)
 
-:computer: I’m currently working at [ArgosAI](https://www.argosai.com)
+:computer: I’m currently working at [ArgosAI](https://www.argosai.com) Intern
