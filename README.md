@@ -7,8 +7,9 @@ I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I
 
 - :computer: I’m currently working at [ArgosAI](https://www.argosai.com)
 - :chart_with_downwards_trend: I'm experienced in Data Visualization
+- :rocket: My [HackerRank Profile](https://www.hackerrank.com/glsmnhl19)
 
 ## Languages and Tools:
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 
 [![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdoganNihal&show_icons=true&theme=radical)](https://github.com/ArdoganNihal/github-readme-stats)
