@@ -8,6 +8,7 @@ I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I
 - 💻 I’m currently working at [ArgosAI](https://www.argosai.com)
 - 
 
-## Top Technologies
+## Languages and Tools:
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
+[![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdoganNihal&show_icons=true&theme=radical)](https://github.com/ArdoganNihal/github-readme-stats)
