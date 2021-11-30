@@ -1,5 +1,5 @@
 ### Hi, I'm Nihal 👋
-I am Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I spend most of my time learning new things, coding data science or attending trainings.
+I'm Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I spend most of my time learning new things, coding data science or attending trainings.
 
 📫 Reach me out !
 
