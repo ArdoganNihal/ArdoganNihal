@@ -3,7 +3,7 @@ I'm Nihal Ardogan Junior Front End Developer and Machine Learning Researcher. I 
 
 📫 Reach me out !
 
-![Twitter Badge](https://img.shields.io/badge/-@nihalino-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)(https://twitter.com/nihalino) ![LinkedIn Badge](https://img.shields.io/badge/nihalardogan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Microsoft_Outlook Badge](https://img.shields.io/badge/ardogannihal@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![Twitter Badge](https://img.shields.io/badge/-@nihalino-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihalino) ![LinkedIn Badge](https://img.shields.io/badge/nihalardogan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Microsoft_Outlook Badge](https://img.shields.io/badge/ardogannihal@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 - :computer: I’m currently working at [ArgosAI](https://www.argosai.com)
 - :chart_with_downwards_trend: I'm experienced in Data Visualization
