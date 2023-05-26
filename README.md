@@ -7,7 +7,7 @@ I'm Nihal Ardogan Backend Developer. I spend most of my time learning new things
 
 - :computer: I’m currently working at [Stelab](https://stelab.com.tr/)
 - :chart_with_downwards_trend: I'm experienced in Data Visualization
-- :chart_with_downwards_trend: I'm experienced in Data Visualization
+- :chart_with_downwards_trend: I'm experienced in DevOps
 - :chart_with_downwards_trend: I'm experienced in Backend Development with Node.Js
 - :rocket: My [HackerRank Profile](https://www.hackerrank.com/glsmnhl19)
 
