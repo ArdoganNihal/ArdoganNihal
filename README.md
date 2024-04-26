@@ -5,10 +5,8 @@ I'm Nihal Ardogan Backend Developer. I spend most of my time learning new things
 
 [![Twitter Badge](https://img.shields.io/badge/-@nihalino-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihalino) ![LinkedIn Badge](https://img.shields.io/badge/nihalardogan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Microsoft_Outlook Badge](https://img.shields.io/badge/ardogannihal@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-// - :computer: I’m currently working at [Stelab](https://stelab.com.tr/)
-- :chart_with_downwards_trend: I'm experienced in Data Visualization
-- :chart_with_downwards_trend: I'm experienced in DevOps
-- :chart_with_downwards_trend: I'm experienced in Backend Development with Node.Js
+- :chart_with_downwards_trend: I'm experienced in PostgreSQL, RabbitMQ, Docker, Linux
+- :chart_with_downwards_trend: I'm experienced in Backend Development with Node.Js and Python
 - :rocket: My [HackerRank Profile](https://www.hackerrank.com/glsmnhl19)
 
 ## Languages and Tools:
